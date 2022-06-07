@@ -1,0 +1,15 @@
+.paragraph-1{
+ color: brown;
+	}
+[name='abcd']{
+color: green;
+ }
+[name='1234']{
+	color: orange;
+	}
+ button:hover{
+color: red;
+	 }
+ .testing-box{
+padding: 20px;
+}
